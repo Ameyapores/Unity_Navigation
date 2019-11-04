@@ -1,0 +1,67 @@
+Base path: '/home/ameya/Unity/Hub/Editor/2019.3.0b6/Editor/Data', plugins path '/home/ameya/Unity/Hub/Editor/2019.3.0b6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=12270 outsize=2704 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=12270 outsize=3874 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=12270 outsize=2946 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12270 outsize=4575 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12270 outsize=5114 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=4482 outsize=4147 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4482 outsize=7251 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at Tensor.cginc(128): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=15 insize=27408 outsize=6287 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=3640 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=3115 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=4281 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=5035 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=8730 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=5949 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=7719 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=5626 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=64076 outsize=6214 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=64076 outsize=31509 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=2143 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=2266 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=3075 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=3086 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=3263 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=2999 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=3101 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=3481 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=4430 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=5489 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=5494 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=5285 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=23621 outsize=16438 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=23621 outsize=33262 ok=1

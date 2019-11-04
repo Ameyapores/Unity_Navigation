@@ -1,0 +1,65 @@
+Base path: '/home/ameya/Unity/Hub/Editor/2019.3.0b6/Editor/Data', plugins path '/home/ameya/Unity/Hub/Editor/2019.3.0b6/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=12270 outsize=4685 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=12270 outsize=8294 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=4482 outsize=4144 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=4482 outsize=7243 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 15 at Tensor.cginc(128): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=15 insize=27408 outsize=5195 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=3403 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=3117 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=4277 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=27408 outsize=3196 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=12011 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=11281 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=5544 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=7735 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=27408 outsize=5618 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=64076 outsize=15783 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=2058 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=1989 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=2056 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=3075 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=3076 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=3080 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=20360 outsize=3744 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=3476 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=3211 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=5294 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=5246 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=5695 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=20360 outsize=5257 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=23621 outsize=21377 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1810 outsize=11250 ok=1
+
+Quitting shader compiler process
